@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Client
@@ -9,7 +6,7 @@ namespace Client
     static class Program
     {
         /// <summary>
-        /// Главная точка входа для приложения.
+        /// Главная точка входа для приложения.C:\Users\zaza\Documents\8\c#\kNN\Server\KNNService.cs
         /// </summary>
         [STAThread]
         static void Main()
